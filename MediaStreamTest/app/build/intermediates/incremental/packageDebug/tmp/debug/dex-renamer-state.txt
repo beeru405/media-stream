@@ -1,0 +1,4 @@
+#Thu Jul 27 13:11:45 IST 2023
+base.0=/home/idrbt/Downloads/MediaStreamTest/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

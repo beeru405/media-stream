@@ -1,0 +1,239 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:2:1-47:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/idrbt/.gradle/caches/transforms-3/9200f84f5532cc93627f7b53a5279e93/transformed/appcompat-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/idrbt/.gradle/caches/transforms-3/2a39adb5ac6e84ed78c2b620795d24a0/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.vxg.mediasdk:encodersdk:6.13.20220707] /home/idrbt/.gradle/caches/transforms-3/299c99101046f1f5ae54b1429abc95b9/transformed/encodersdk-6.13.20220707/AndroidManifest.xml:2:1-34:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/idrbt/.gradle/caches/transforms-3/7c49e78204ad1c7e2fec9f5500bb4249/transformed/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/idrbt/.gradle/caches/transforms-3/66cd265737405caa0c5b2f249ff8b30c/transformed/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/idrbt/.gradle/caches/transforms-3/839b86c314319b186489c72b21dcde47/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/idrbt/.gradle/caches/transforms-3/9a9ebe0c7d81a3a30519ef277ca2fa5d/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/idrbt/.gradle/caches/transforms-3/676f346f397085c9dce9494787971c68/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/idrbt/.gradle/caches/transforms-3/fd23dbd55da41a7a11ba7283440c26c8/transformed/vectordrawable-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/idrbt/.gradle/caches/transforms-3/ae9271c962d281e910b0f6ae2279ee4d/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/idrbt/.gradle/caches/transforms-3/7394dd4b6cd8c9819774f2f80160a753/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/idrbt/.gradle/caches/transforms-3/d07a265d64beaacef9e3d4ace1a1b0ca/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/idrbt/.gradle/caches/transforms-3/8878838ce579652067c2afa05cda5068/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/idrbt/.gradle/caches/transforms-3/98d2a81e41fbcdd044343683040e0151/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/idrbt/.gradle/caches/transforms-3/792ad1b109dbe53844b3d479944650c5/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/idrbt/.gradle/caches/transforms-3/ba226a4271f78bcd1945d28e3b107a45/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/idrbt/.gradle/caches/transforms-3/9e9a65bcf363fd754f2e178112023088/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/idrbt/.gradle/caches/transforms-3/d107dc9f4b35257a72376c2c575626ea/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /home/idrbt/.gradle/caches/transforms-3/e5fc06b8debccfdf3be92ddf4d9d3134/transformed/core-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/idrbt/.gradle/caches/transforms-3/9a5bfaf81554eb9ecd8ad92ff151383d/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/idrbt/.gradle/caches/transforms-3/95dcf7ede54983d0c5eadae1fe95003c/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/idrbt/.gradle/caches/transforms-3/0af8728154fc4545ad0fda5d893afc44/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/idrbt/.gradle/caches/transforms-3/f7574dbc633a55ad8b92a9e2f2797ec2/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/idrbt/.gradle/caches/transforms-3/0403e70172fe050258c0df9bc54a74b6/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/idrbt/.gradle/caches/transforms-3/d2c35aa17f5f9a5976ec0cc311c02ea1/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/idrbt/.gradle/caches/transforms-3/9ec0fe2446623f7c0d59a7c5d3f41497/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/idrbt/.gradle/caches/transforms-3/e5dd0ec50b9ea13d8d8eaf46e6675d46/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/idrbt/.gradle/caches/transforms-3/7d261c2e47e67ae2a09e182eb031b5b1/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/idrbt/.gradle/caches/transforms-3/71b9cb0c81a594dd671375f6c3232cf3/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/idrbt/.gradle/caches/transforms-3/b444a52968063c1bbec346f65b2744ce/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml
+		INJECTED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:5:5-32
+		INJECTED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml
+		INJECTED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:4:5-29
+		INJECTED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml
+		INJECTED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:6:5-35
+application
+ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:8:5-28:19
+MERGED from [com.vxg.mediasdk:encodersdk:6.13.20220707] /home/idrbt/.gradle/caches/transforms-3/299c99101046f1f5ae54b1429abc95b9/transformed/encodersdk-6.13.20220707/AndroidManifest.xml:28:5-32:19
+MERGED from [com.vxg.mediasdk:encodersdk:6.13.20220707] /home/idrbt/.gradle/caches/transforms-3/299c99101046f1f5ae54b1429abc95b9/transformed/encodersdk-6.13.20220707/AndroidManifest.xml:28:5-32:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/idrbt/.gradle/caches/transforms-3/7c49e78204ad1c7e2fec9f5500bb4249/transformed/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/idrbt/.gradle/caches/transforms-3/7c49e78204ad1c7e2fec9f5500bb4249/transformed/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.0] /home/idrbt/.gradle/caches/transforms-3/e5fc06b8debccfdf3be92ddf4d9d3134/transformed/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /home/idrbt/.gradle/caches/transforms-3/e5fc06b8debccfdf3be92ddf4d9d3134/transformed/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/idrbt/.gradle/caches/transforms-3/9a5bfaf81554eb9ecd8ad92ff151383d/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/idrbt/.gradle/caches/transforms-3/9a5bfaf81554eb9ecd8ad92ff151383d/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:requestLegacyExternalStorage
+		ADDED from [com.vxg.mediasdk:encodersdk:6.13.20220707] /home/idrbt/.gradle/caches/transforms-3/299c99101046f1f5ae54b1429abc95b9/transformed/encodersdk-6.13.20220707/AndroidManifest.xml:31:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /home/idrbt/.gradle/caches/transforms-3/e5fc06b8debccfdf3be92ddf4d9d3134/transformed/core-1.0.0/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:11:9-47
+	android:launchMode
+		ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:13:9-44
+	android:hardwareAccelerated
+		ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:9:9-43
+	android:noHistory
+		ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:14:9-33
+	android:configChanges
+		ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:15:9-55
+	android:largeHeap
+		ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:12:9-33
+	android:icon
+		ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:10:9-37
+activity#veg.mediacapture.sdk.test.MainActivity
+ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:17:19-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:21:27-74
+activity#veg.mediacapture.sdk.test.SettingsActivity
+ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:24:9-27:20
+	android:label
+		ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:26:13-60
+	android:name
+		ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:25:13-70
+uses-feature#android.hardware.camera
+ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:30:5-60
+MERGED from [com.vxg.mediasdk:encodersdk:6.13.20220707] /home/idrbt/.gradle/caches/transforms-3/299c99101046f1f5ae54b1429abc95b9/transformed/encodersdk-6.13.20220707/AndroidManifest.xml:17:5-19:36
+MERGED from [com.vxg.mediasdk:encodersdk:6.13.20220707] /home/idrbt/.gradle/caches/transforms-3/299c99101046f1f5ae54b1429abc95b9/transformed/encodersdk-6.13.20220707/AndroidManifest.xml:17:5-19:36
+	android:name
+		ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:30:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:31:5-70
+MERGED from [com.vxg.mediasdk:encodersdk:6.13.20220707] /home/idrbt/.gradle/caches/transforms-3/299c99101046f1f5ae54b1429abc95b9/transformed/encodersdk-6.13.20220707/AndroidManifest.xml:20:5-22:36
+MERGED from [com.vxg.mediasdk:encodersdk:6.13.20220707] /home/idrbt/.gradle/caches/transforms-3/299c99101046f1f5ae54b1429abc95b9/transformed/encodersdk-6.13.20220707/AndroidManifest.xml:20:5-22:36
+	android:name
+		ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:31:19-67
+uses-permission#android.permission.CAMERA
+ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:33:5-65
+MERGED from [com.vxg.mediasdk:encodersdk:6.13.20220707] /home/idrbt/.gradle/caches/transforms-3/299c99101046f1f5ae54b1429abc95b9/transformed/encodersdk-6.13.20220707/AndroidManifest.xml:24:5-26:36
+MERGED from [com.vxg.mediasdk:encodersdk:6.13.20220707] /home/idrbt/.gradle/caches/transforms-3/299c99101046f1f5ae54b1429abc95b9/transformed/encodersdk-6.13.20220707/AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [com.vxg.mediasdk:encodersdk:6.13.20220707] /home/idrbt/.gradle/caches/transforms-3/299c99101046f1f5ae54b1429abc95b9/transformed/encodersdk-6.13.20220707/AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:33:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:34:5-71
+MERGED from [com.vxg.mediasdk:encodersdk:6.13.20220707] /home/idrbt/.gradle/caches/transforms-3/299c99101046f1f5ae54b1429abc95b9/transformed/encodersdk-6.13.20220707/AndroidManifest.xml:11:5-71
+MERGED from [com.vxg.mediasdk:encodersdk:6.13.20220707] /home/idrbt/.gradle/caches/transforms-3/299c99101046f1f5ae54b1429abc95b9/transformed/encodersdk-6.13.20220707/AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:34:22-68
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:36:5-79
+MERGED from [com.vxg.mediasdk:encodersdk:6.13.20220707] /home/idrbt/.gradle/caches/transforms-3/299c99101046f1f5ae54b1429abc95b9/transformed/encodersdk-6.13.20220707/AndroidManifest.xml:12:5-79
+MERGED from [com.vxg.mediasdk:encodersdk:6.13.20220707] /home/idrbt/.gradle/caches/transforms-3/299c99101046f1f5ae54b1429abc95b9/transformed/encodersdk-6.13.20220707/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:36:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:37:5-67
+MERGED from [com.vxg.mediasdk:encodersdk:6.13.20220707] /home/idrbt/.gradle/caches/transforms-3/299c99101046f1f5ae54b1429abc95b9/transformed/encodersdk-6.13.20220707/AndroidManifest.xml:13:5-67
+MERGED from [com.vxg.mediasdk:encodersdk:6.13.20220707] /home/idrbt/.gradle/caches/transforms-3/299c99101046f1f5ae54b1429abc95b9/transformed/encodersdk-6.13.20220707/AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:37:22-64
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:38:5-86
+	android:name
+		ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:38:22-83
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:39:5-81
+MERGED from [com.vxg.mediasdk:encodersdk:6.13.20220707] /home/idrbt/.gradle/caches/transforms-3/299c99101046f1f5ae54b1429abc95b9/transformed/encodersdk-6.13.20220707/AndroidManifest.xml:14:5-81
+MERGED from [com.vxg.mediasdk:encodersdk:6.13.20220707] /home/idrbt/.gradle/caches/transforms-3/299c99101046f1f5ae54b1429abc95b9/transformed/encodersdk-6.13.20220707/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:39:22-78
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:40:5-75
+	android:name
+		ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:40:22-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:41:5-68
+MERGED from [com.vxg.mediasdk:encodersdk:6.13.20220707] /home/idrbt/.gradle/caches/transforms-3/299c99101046f1f5ae54b1429abc95b9/transformed/encodersdk-6.13.20220707/AndroidManifest.xml:15:5-68
+MERGED from [com.vxg.mediasdk:encodersdk:6.13.20220707] /home/idrbt/.gradle/caches/transforms-3/299c99101046f1f5ae54b1429abc95b9/transformed/encodersdk-6.13.20220707/AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:41:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:42:5-79
+	android:name
+		ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml:42:22-76
+uses-sdk
+INJECTED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml
+INJECTED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/idrbt/.gradle/caches/transforms-3/9200f84f5532cc93627f7b53a5279e93/transformed/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/idrbt/.gradle/caches/transforms-3/9200f84f5532cc93627f7b53a5279e93/transformed/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/idrbt/.gradle/caches/transforms-3/2a39adb5ac6e84ed78c2b620795d24a0/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/idrbt/.gradle/caches/transforms-3/2a39adb5ac6e84ed78c2b620795d24a0/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.vxg.mediasdk:encodersdk:6.13.20220707] /home/idrbt/.gradle/caches/transforms-3/299c99101046f1f5ae54b1429abc95b9/transformed/encodersdk-6.13.20220707/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vxg.mediasdk:encodersdk:6.13.20220707] /home/idrbt/.gradle/caches/transforms-3/299c99101046f1f5ae54b1429abc95b9/transformed/encodersdk-6.13.20220707/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/idrbt/.gradle/caches/transforms-3/7c49e78204ad1c7e2fec9f5500bb4249/transformed/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/idrbt/.gradle/caches/transforms-3/7c49e78204ad1c7e2fec9f5500bb4249/transformed/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/idrbt/.gradle/caches/transforms-3/66cd265737405caa0c5b2f249ff8b30c/transformed/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/idrbt/.gradle/caches/transforms-3/66cd265737405caa0c5b2f249ff8b30c/transformed/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/idrbt/.gradle/caches/transforms-3/839b86c314319b186489c72b21dcde47/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/idrbt/.gradle/caches/transforms-3/839b86c314319b186489c72b21dcde47/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/idrbt/.gradle/caches/transforms-3/9a9ebe0c7d81a3a30519ef277ca2fa5d/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/idrbt/.gradle/caches/transforms-3/9a9ebe0c7d81a3a30519ef277ca2fa5d/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/idrbt/.gradle/caches/transforms-3/676f346f397085c9dce9494787971c68/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/idrbt/.gradle/caches/transforms-3/676f346f397085c9dce9494787971c68/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/idrbt/.gradle/caches/transforms-3/fd23dbd55da41a7a11ba7283440c26c8/transformed/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/idrbt/.gradle/caches/transforms-3/fd23dbd55da41a7a11ba7283440c26c8/transformed/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/idrbt/.gradle/caches/transforms-3/ae9271c962d281e910b0f6ae2279ee4d/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/idrbt/.gradle/caches/transforms-3/ae9271c962d281e910b0f6ae2279ee4d/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/idrbt/.gradle/caches/transforms-3/7394dd4b6cd8c9819774f2f80160a753/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/idrbt/.gradle/caches/transforms-3/7394dd4b6cd8c9819774f2f80160a753/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/idrbt/.gradle/caches/transforms-3/d07a265d64beaacef9e3d4ace1a1b0ca/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/idrbt/.gradle/caches/transforms-3/d07a265d64beaacef9e3d4ace1a1b0ca/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/idrbt/.gradle/caches/transforms-3/8878838ce579652067c2afa05cda5068/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/idrbt/.gradle/caches/transforms-3/8878838ce579652067c2afa05cda5068/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/idrbt/.gradle/caches/transforms-3/98d2a81e41fbcdd044343683040e0151/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/idrbt/.gradle/caches/transforms-3/98d2a81e41fbcdd044343683040e0151/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/idrbt/.gradle/caches/transforms-3/792ad1b109dbe53844b3d479944650c5/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/idrbt/.gradle/caches/transforms-3/792ad1b109dbe53844b3d479944650c5/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/idrbt/.gradle/caches/transforms-3/ba226a4271f78bcd1945d28e3b107a45/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/idrbt/.gradle/caches/transforms-3/ba226a4271f78bcd1945d28e3b107a45/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/idrbt/.gradle/caches/transforms-3/9e9a65bcf363fd754f2e178112023088/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/idrbt/.gradle/caches/transforms-3/9e9a65bcf363fd754f2e178112023088/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/idrbt/.gradle/caches/transforms-3/d107dc9f4b35257a72376c2c575626ea/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/idrbt/.gradle/caches/transforms-3/d107dc9f4b35257a72376c2c575626ea/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/idrbt/.gradle/caches/transforms-3/e5fc06b8debccfdf3be92ddf4d9d3134/transformed/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/idrbt/.gradle/caches/transforms-3/e5fc06b8debccfdf3be92ddf4d9d3134/transformed/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/idrbt/.gradle/caches/transforms-3/9a5bfaf81554eb9ecd8ad92ff151383d/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/idrbt/.gradle/caches/transforms-3/9a5bfaf81554eb9ecd8ad92ff151383d/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/idrbt/.gradle/caches/transforms-3/95dcf7ede54983d0c5eadae1fe95003c/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/idrbt/.gradle/caches/transforms-3/95dcf7ede54983d0c5eadae1fe95003c/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/idrbt/.gradle/caches/transforms-3/0af8728154fc4545ad0fda5d893afc44/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/idrbt/.gradle/caches/transforms-3/0af8728154fc4545ad0fda5d893afc44/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/idrbt/.gradle/caches/transforms-3/f7574dbc633a55ad8b92a9e2f2797ec2/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/idrbt/.gradle/caches/transforms-3/f7574dbc633a55ad8b92a9e2f2797ec2/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/idrbt/.gradle/caches/transforms-3/0403e70172fe050258c0df9bc54a74b6/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/idrbt/.gradle/caches/transforms-3/0403e70172fe050258c0df9bc54a74b6/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/idrbt/.gradle/caches/transforms-3/d2c35aa17f5f9a5976ec0cc311c02ea1/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/idrbt/.gradle/caches/transforms-3/d2c35aa17f5f9a5976ec0cc311c02ea1/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/idrbt/.gradle/caches/transforms-3/9ec0fe2446623f7c0d59a7c5d3f41497/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/idrbt/.gradle/caches/transforms-3/9ec0fe2446623f7c0d59a7c5d3f41497/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/idrbt/.gradle/caches/transforms-3/e5dd0ec50b9ea13d8d8eaf46e6675d46/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/idrbt/.gradle/caches/transforms-3/e5dd0ec50b9ea13d8d8eaf46e6675d46/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/idrbt/.gradle/caches/transforms-3/7d261c2e47e67ae2a09e182eb031b5b1/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/idrbt/.gradle/caches/transforms-3/7d261c2e47e67ae2a09e182eb031b5b1/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/idrbt/.gradle/caches/transforms-3/71b9cb0c81a594dd671375f6c3232cf3/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/idrbt/.gradle/caches/transforms-3/71b9cb0c81a594dd671375f6c3232cf3/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/idrbt/.gradle/caches/transforms-3/b444a52968063c1bbec346f65b2744ce/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/idrbt/.gradle/caches/transforms-3/b444a52968063c1bbec346f65b2744ce/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml
+INJECTED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml
+		ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml
+		INJECTED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml
+		ADDED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml
+		INJECTED from /home/idrbt/Downloads/MediaStreamTest/app/src/main/AndroidManifest.xml
