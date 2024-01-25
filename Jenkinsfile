@@ -16,6 +16,7 @@ pipeline {
             steps {
                 script {
                     // Use Gradle Wrapper to build the project
+                    sh 'gradle init'
                     sh './gradlew assembleDebug'
                 }
             }
