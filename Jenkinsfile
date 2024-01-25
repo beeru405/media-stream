@@ -3,6 +3,7 @@ pipeline {
 
     environment {
         GRADLE_HOME = tool 'Gradle' // Assumes Gradle is configured in Jenkins global tools
+        JAVA_HOME = tool 'JDK11'   // Assumes JDK 11 is configured in Jenkins global tools
     }
 
     stages {
