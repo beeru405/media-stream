@@ -18,11 +18,20 @@ pipeline {
                 script {
                     // Use Gradle Wrapper to build the project
                     sh 'gradle init'
-                    sh './gradlew assembleDebug'
+                    sh 'gradle build'
                 }
             }
         }
-
+       stage('Install Android SDK') {
+            steps {
+                script {
+                    sh '''
+                        wget https://dl.google.com/android/repository/commandlinetools-linux-6609375_latest.zip
+                        unzip commandlinetools-linux-6609375_latest.zip -d /var/lib/jenkins/tools/android-sdk
+                    '''
+                }
+            }
+        }
         stage('Archive APK') {
             steps {
                 // Archive the APK file
